@@ -1,0 +1,22 @@
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Next.js build & node dependencies
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Auto-generated runtime config
+env-config.js
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
